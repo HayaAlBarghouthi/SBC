@@ -1,5 +1,5 @@
 body {
-  background-image: url("/Applications/XAMPP/xamppfiles/htdocs/SBC/SBC.jpg");
+  background-image: url("./SBC.jpg");
   background-size: cover;
 }
 
